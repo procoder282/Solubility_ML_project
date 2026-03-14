@@ -13,8 +13,8 @@ Dataset used for training and evaluation.
 
 * **Dataset Name:** delaney_solubility_with_descriptors.csv
 * **Source:** https://raw.githubusercontent.com/dataprofessor/data/refs/heads/master/delaney_solubility_with_descriptors.csv
-* **Number of samples:** [_1144___]
-* **Number of features:** [__5__]
+* **Number of samples:** 1144
+* **Number of features:** 5
 
 Example dataset link:
 [[Dataset URL]](https://raw.githubusercontent.com/dataprofessor/data/refs/heads/master/delaney_solubility_with_descriptors.csv)
